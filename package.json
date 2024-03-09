@@ -1,0 +1,27 @@
+{
+  "name": "trending_naplan_js",
+  "version": "1.0.0",
+  "description": "Naplan assisting summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "trending_naplan_js": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhelerCarrecter/trending_naplan_js.git"
+  },
+  "homepage": "https://twitter.com/MariaPatri87797",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "WhelerCarrecter",
+  "license": "MIT"
+}
